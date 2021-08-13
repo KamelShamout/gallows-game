@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medexam", "medexam\medexam.csproj", "{C3C142C5-A4D7-434E-9316-37A9219D5663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3C142C5-A4D7-434E-9316-37A9219D5663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C142C5-A4D7-434E-9316-37A9219D5663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C142C5-A4D7-434E-9316-37A9219D5663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C142C5-A4D7-434E-9316-37A9219D5663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2A3FB7-4E86-4A43-8E4D-7A208DC476B7}
+	EndGlobalSection
+EndGlobal

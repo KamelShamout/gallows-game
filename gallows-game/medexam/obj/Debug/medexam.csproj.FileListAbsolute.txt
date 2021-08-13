@@ -1,0 +1,10 @@
+C:\Users\kamel\source\repos\medexam\medexam\bin\Debug\medexam.exe.config
+C:\Users\kamel\source\repos\medexam\medexam\bin\Debug\medexam.exe
+C:\Users\kamel\source\repos\medexam\medexam\bin\Debug\medexam.pdb
+C:\Users\kamel\source\repos\medexam\medexam\obj\Debug\medexam.csprojAssemblyReference.cache
+C:\Users\kamel\source\repos\medexam\medexam\obj\Debug\medexam.Form1.resources
+C:\Users\kamel\source\repos\medexam\medexam\obj\Debug\medexam.Properties.Resources.resources
+C:\Users\kamel\source\repos\medexam\medexam\obj\Debug\medexam.csproj.GenerateResource.cache
+C:\Users\kamel\source\repos\medexam\medexam\obj\Debug\medexam.csproj.CoreCompileInputs.cache
+C:\Users\kamel\source\repos\medexam\medexam\obj\Debug\medexam.exe
+C:\Users\kamel\source\repos\medexam\medexam\obj\Debug\medexam.pdb
